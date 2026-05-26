@@ -1,6 +1,6 @@
 # Mobile Learning – Área da Saúde (UNITINS)
 
-Prototipo de Aplicativo *mobile learning* para estudantes de saúde da UNITINS.
+Protótipo de Aplicativo *mobile learning* para estudantes de saúde da UNITINS.
 Projeto PIBITI/FAPT 2023/2024.
 
 **Bolsista:** Pedro Henrique da Silva Almeida  
